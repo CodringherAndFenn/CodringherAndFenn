@@ -63,7 +63,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img width="12" />
 </a>
 <a href="https://www.aseprite.org/">
-  <img src="https://www.aseprite.org/assets/images/og-image.png" height="40" alt="aseprite logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" height="40" alt="aseprite logo"  />
   <img width="12" />
 </a>
 
