@@ -12,6 +12,8 @@
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
 </div>
 
+ ###
+ 
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
 I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
 The vast experience I gathered throughout my University years, ranging from Game Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also currently working on small, personal project both for PC and Mobile.
