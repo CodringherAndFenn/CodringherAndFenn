@@ -42,15 +42,19 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
 </a>
-
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,C%23">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard.">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-
-<a href="https://github.com/">
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard.">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="sourcetree logo"  />
   <img width="12" />
 </a>
@@ -64,6 +68,10 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 </a>
 <a href="https://www.aseprite.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" height="40" alt="aseprite logo"  />
+  <img width="12" />
+</a>
+<a href="https://cascadeur.com/">
+  <img src="http://www.w3.org/2000/svg " height="40" alt="cascadeur logo"  />
   <img width="12" />
 </a>
 
