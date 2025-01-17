@@ -24,28 +24,53 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 <div align="left">
 <a href="https://unity.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-    </a>
-<a href="https://www.unrealengine.com/en-US">
   <img width="12" />
-    </a>
+</a>
+<a href="https://www.unrealengine.com/en-US">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
   <img width="12" />
+</a>
+<a href="https://godotengine.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
+</a>
+<a href="https://gamemaker.io/en">
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
   <img width="12" />
+</a>
+<a href="https://developer.android.com/studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
+</a>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+<a href="https://github.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="sourcetree logo"  />
   <img width="12" />
+</a>
+<a href="https://www.sourcetreeapp.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+</a>
+<a href="https://www.blender.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+</a>
+<a href="https://www.aseprite.org/">
+  <img src="https://www.aseprite.org/assets/images/og-image.png" height="40" alt="aseprite logo"  />
+  <img width="12" />
+</a>
+
+
 </div>
+
+
 
 ###
 </p>
