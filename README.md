@@ -9,7 +9,7 @@
 ## 👀 A bit about me 👀
 
 <div align="center">
-  <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" height="128" width="128" alt="cute wizard" />
+  <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="cute wizard" />
 </div>
 
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
