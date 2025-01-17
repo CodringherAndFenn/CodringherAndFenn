@@ -21,10 +21,9 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
       width="64" height="64"  />
 
-  <a href="https://godotengine.org/">
+  <a href="https://godotengine.org/" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg"
-      background-color: #FFFFFF;
-        width="64" height="64"  />
+        width="64" height="64" style="background-color: #FFFFFF;" />
 </p>
 
 
