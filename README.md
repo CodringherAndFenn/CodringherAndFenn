@@ -71,7 +71,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img width="12" />
 </a>
 <a href="https://store.speedtree.com/">
-  <img src="https://i.postimg.cc/TLh36FB6/ST-Horizontal-White.png' border='0' alt='ST-Horizontal-White" height="40" alt="cascadeur logo"  />
+  <img src="https://i.postimg.cc/TLh36FB6/ST-Horizontal-White.png" height="40" alt="speedtree logo"  />
   <img width="12" />
 </a>
 
