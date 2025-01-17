@@ -7,6 +7,7 @@
 
 ## A bit about me 
 
-I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
+I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences. I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
+lorem ipsum test test
 
 
