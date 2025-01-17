@@ -15,12 +15,18 @@ The vast experience I gathered throughout my University years, ranging from Game
 I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 6 month project together. 
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
 
+
 <p align="left">
   <a href="https://godotengine.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
       width="64" height="64"  />
 </p>
+
+<p align="left">
+  <a href="https://godotengine.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg"
+      width="64" height="64"  />
+</p>
+
+
           
-
-
-
