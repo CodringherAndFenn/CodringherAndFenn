@@ -8,6 +8,10 @@
 
 ## 👀 A bit about me 👀
 
+<div align="center">
+  <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" height="128" width="128" alt="cute wizard" />
+</div>
+
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
 I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
 The vast experience I gathered throughout my University years, ranging from Game Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also currently working on small, personal project both for PC and Mobile.
