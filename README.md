@@ -22,7 +22,9 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 ###
 
 <div align="left">
+<a href="https://unity.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+    </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
   <img width="12" />
@@ -42,17 +44,6 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
-<a href="https://unity.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
-      width="64" height="64"  />
-  </a>
-
-  <a href="https://godotengine.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg"
-      width="64" height="64" />
-  </a>
-
 
 ###
 </p>
