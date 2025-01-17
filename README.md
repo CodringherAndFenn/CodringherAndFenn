@@ -17,7 +17,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 
 
 <p align="left">
-  <a href="https://godotengine.org/">
+  <a href="https://unity.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"
       width="64" height="64"  />
 
