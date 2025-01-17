@@ -17,7 +17,8 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 
 <p align="left">
   <a href="https://godotengine.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+      width="100" height="100"  />
 </p>
           
 
