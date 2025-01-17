@@ -1,4 +1,7 @@
-#👀👀👀 A bit about me
+<style type="text/css">
+div { color: #444;}
+</style>
+👀👀👀 A bit about me
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
