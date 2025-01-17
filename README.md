@@ -70,8 +70,8 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" height="40" alt="aseprite logo"  />
   <img width="12" />
 </a>
-<a href="https://cascadeur.com/">
-  <img src="http://www.w3.org/2000/svg " height="40" alt="cascadeur logo"  />
+<a href="https://store.speedtree.com/">
+  <img src="https://i.postimg.cc/TLh36FB6/ST-Horizontal-White.png' border='0' alt='ST-Horizontal-White" height="40" alt="cascadeur logo"  />
   <img width="12" />
 </a>
 
