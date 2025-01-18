@@ -87,8 +87,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 
 ###
 <div align="center">
-  <img src="https://i.postimg.cc/sX9j9B6r/Year1-Airport-01.gif" height="200" width="300" align="left" alt="airport" />
-  <img src="https://i.postimg.cc/cCFd2pGk/Year1-Airport-02.gif" height="200" width="300" align="right" alt="airport 2" />
+  <img src="https://i.postimg.cc/sX9j9B6r/Year1-Airport-01.gif" height="200" width="300" alt="airport" />
 </div>
 
 
