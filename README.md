@@ -85,16 +85,8 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 ###
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/sX9j9B6r/Year1-Airport-01.gif" alt="First GIF"  /></a>
-</p>
-
-<p align="center">
-  <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
-</p>
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
+  <img src="https://i.postimg.cc/sX9j9B6r/Year1-Airport-01.gif" alt="airport" />
 </div>
 
 
