@@ -2,11 +2,9 @@
 
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <style>
-        /* Global justification for all paragraphs */
         p {
             text-align: justify;
-        }
-        
+        }     
   </style>
 </head> 
 
