@@ -9,14 +9,13 @@
 
 
 
-##
-
+#
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=A+bit+about+me:)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
 </div>
- ###
+
  
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
 I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
