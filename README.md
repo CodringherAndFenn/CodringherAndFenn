@@ -103,8 +103,8 @@ Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cev
 Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
 
 <div align="left">
-  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="airport" />
-  <img src="https://i.postimg.cc/KjLpKmVV/Year1-Airport-groningenstation.gif" alt="airport" align="right" />
+  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train" />
+  <img src="https://i.postimg.cc/qBFSZmyb/2025-01-2015-36-02-ezgif-com-video-to-gif-converter.gif" alt="home end align="right" />
 </div>  
 
 
