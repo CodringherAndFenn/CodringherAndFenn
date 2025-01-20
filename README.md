@@ -27,7 +27,7 @@ I was also the CEO and founder of KIBO Entertainment, an indie startup comprised
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
 
 <div align="center">
-  <img src ="https://i.postimg.cc/NfS9Nrsq/IMG-0916.jpg" >
+  <img src ="https://i.postimg.cc/667GC0KL/IMG-0916.jpg" >
 </div>
 
 
