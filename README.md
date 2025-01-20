@@ -36,7 +36,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
       <img width="12" />
     </a>
     <a href="https://www.youtube.com/@MorningLog">
-      <img src ="C:\Users\Mihai Ivanov\Downloads\youtube-color.svg" height="40" alt="youtube logo">
+      <img src ="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/youtube-icon.svg" height="40" alt="youtube logo">
       <img width="12" />
     </a>
   </div>
