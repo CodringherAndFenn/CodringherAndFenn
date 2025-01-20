@@ -24,11 +24,11 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 <p align="left"></p>
   <div align="left">
     <a href="https://discordapp.com/users/168074357334081538">
-      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" alt="discord logo">
+      <img src ="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/discord-icon.svg" height="40" alt="discord logo">
       <img width="12" />
     </a>
     <a href="website">
-      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" alt="discord logo">
+      <img src ="https://i.postimg.cc/sXhg8Twp/No-BG-Logo-Donat-Orana-Morning-Log.png" height="40" alt="discord logo">
       <img width="12" />
     </a>
     <a href="https://www.linkedin.com/in/mihai-ivanov-jucan-81b7b5293/">
