@@ -27,6 +27,18 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
       <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" alt="discord logo">
       <img width="12" />
     </a>
+    <a href="website">
+      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" alt="discord logo">
+      <img width="12" />
+    </a>
+    <a href="https://www.linkedin.com/in/mihai-ivanov-jucan-81b7b5293/">
+      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/linkedin.svg" height="40" alt="discord logo">
+      <img width="12" />
+    </a>
+    <a href="https://www.youtube.com/@MorningLog">
+      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/youtube.svg" height="40" alt="youtube logo">
+      <img width="12" />
+    </a>
   </div>
 </p>
 
