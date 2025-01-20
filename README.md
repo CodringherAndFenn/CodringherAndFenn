@@ -23,6 +23,8 @@ I was also the CEO and founder of KIBO Entertainment, an indie startup comprised
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
 
 
+
+## Skills and profficiencies
   <p align="left"></p>
 
 ###
@@ -46,6 +48,10 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 </a>
 <a href="https://developer.android.com/studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+</a>
+<a href="https://www.atlassian.com/software/jira">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"/>         
   <img width="12" />
 </a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,C%23">
