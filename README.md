@@ -1,24 +1,34 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+<head>
 
-<p align="center">
-  <a href="https://github.com/CodringherAndFenn">
-    <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
-</p>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <style>
+        /* Global justification for all paragraphs */
+        p {
+            text-align: justify;
+        }
+        
+  </style>
+</head> 
+
+<body>
+  <p align="center">
+    <a href="https://github.com/CodringherAndFenn">
+      <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
+  </p>
 
 
-&nbsp;
+  &nbsp;
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
-</div>
+  <div align="center">
+    <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
+  </div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
 
-I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
-I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
-The vast experience I gathered throughout my University years, ranging from Game and Level Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also constantly working on small, personal projects both for PC and Mobile.
+  I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
+  I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
+  The vast experience I gathered throughout my University years, ranging from Game and Level Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also constantly working on small, personal projects both for PC and Mobile.
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Young+Entrepreneur+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D)](https://git.io/typing-svg)
@@ -155,6 +165,6 @@ Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cev
 
 </p>
 
-
+</body>
 
           
