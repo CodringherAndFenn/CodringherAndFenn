@@ -36,7 +36,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
       <img width="12" />
     </a>
     <a href="https://www.youtube.com/@MorningLog">
-      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/youtube.svg?color=FF0000" height="40" alt="youtube logo">
+      <img src ="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/youtube.svg?color=FF0000" height="40" alt="youtube logo">
       <img width="12" />
     </a>
   </div>
