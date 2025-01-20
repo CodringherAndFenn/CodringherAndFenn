@@ -92,6 +92,10 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
   <img src="https://i.postimg.cc/Vk7rCnjy/Year1-Airport-01.gif" height="100" width="200" alt="airport" />
 </div>
 
+<div align="center">
+  <img src="https://i.postimg.cc/1tD3JqN3/Year1-Airport-groningenstation.gif" height="100" width="200" alt="airport" />
+</div>
+
 </p>
 
 
