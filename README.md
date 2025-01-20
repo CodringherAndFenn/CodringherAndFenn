@@ -90,12 +90,20 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 ###
 <div align="center">
   <img src="https://i.postimg.cc/MKdxT0Q1/2025-01-2015-14-23-ezgif-com-optimize.gif" alt="groningen airport just landed" />
-  <img src="https://i.postimg.cc/KjLpKmVV/Year1-Airport-groningenstation.gif" alt="airport" />
+  
+  <img src="https://i.postimg.cc/ncMS4qW4/2025-01-2015-21-45-ezgif-com-video-to-gif-converter.gif" alt="fight phantoms in airport" />
+
+  
 </div>
 
 <div align="left">
   <img src="https://i.postimg.cc/ncfp3rHX/Year1-Airport-trainairport.gif" alt="airport" />
 </div>  
+
+<div align="right">
+  <img src="https://i.postimg.cc/KjLpKmVV/Year1-Airport-groningenstation.gif" alt="airport" />
+</div> 
+
 </p>
 
 
