@@ -1,6 +1,6 @@
 
 
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
 
@@ -139,8 +139,27 @@ For easy access and organization of my work i used source control apps such as G
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F+Team+Projects+%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">  
-  Mead & Monsters
+  <img src="https://fontmeme.com/permalink/250120/bc7c5a4da55f55d67609926d0acc597b.png" alt="Mead and Monsters" />y
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###
 <div align="center">
