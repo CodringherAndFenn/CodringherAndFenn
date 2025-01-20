@@ -22,8 +22,15 @@ The vast experience I gathered throughout my University years, ranging from Game
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Young+Entrepreneur+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D)](https://git.io/typing-svg)
+
 I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 4 month project together. 
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
+
+<div align="center">
+  <img src ="https://i.postimg.cc/NfS9Nrsq/IMG-0916.jpg" >
+</div>
+
+
 <p align="center"></p>
   <div align="center">
     <a href="https://discordapp.com/users/168074357334081538">
