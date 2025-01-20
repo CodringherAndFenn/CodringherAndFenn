@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/CodringherAndFenn">
-    <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
+    <img src="https://fontmeme.com/permalink/250120/5287c7e42f2cd769b5ec311ee5b5e239.png" alt="Mihai Ivanov" /></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
+  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute cat" />
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
