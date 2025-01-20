@@ -85,10 +85,14 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 ###
 </p>
 
+<p align="center"></p>
+
 ###
 <div align="left">
   <img src="https://i.postimg.cc/Vk7rCnjy/Year1-Airport-01.gif" height="100" width="200" alt="airport" />
 </div>
+
+</p>
 
 
 
