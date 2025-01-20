@@ -24,7 +24,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 <p align="left"></p>
   <div align="left">
     <a href="https://discordapp.com/users/168074357334081538">
-      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" alt="discord logo">
+      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord-color.svg" height="40" alt="discord logo">
       <img width="12" />
     </a>
     <a href="website">
@@ -32,11 +32,11 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
       <img width="12" />
     </a>
     <a href="https://www.linkedin.com/in/mihai-ivanov-jucan-81b7b5293/">
-      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/linkedin.svg" height="40" alt="discord logo">
+      <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="discord logo">
       <img width="12" />
     </a>
     <a href="https://www.youtube.com/@MorningLog">
-      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/youtube.svg" height="40" alt="youtube logo">
+      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/refs/heads/develop/icons/youtube-color.svg" height="40" alt="youtube logo">
       <img width="12" />
     </a>
   </div>
