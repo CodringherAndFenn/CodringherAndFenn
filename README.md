@@ -44,7 +44,8 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
     </a>
   </div>
 </p>
-&nbsp;&nbsp;
+&nbsp;
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%94+Skills+and+profficiencies+%F0%9F%91%94)](https://git.io/typing-svg)
 
   <p align="left"></p>
