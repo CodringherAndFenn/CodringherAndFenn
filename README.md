@@ -54,10 +54,10 @@ My role within the company was mainly a Developer, Game, Level and Narrative Des
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%94+Skills+and+profficiencies+%F0%9F%91%94)](https://git.io/typing-svg)
 
 
-The nature of the university programme I followed has taken me through a lot of the fields that comprise Game Development. I worked with Engines such as GameMaker, Unity, Unreal Engine and Godot while learning how to implement programming, animation, design and audio throughout all of them.
+The nature of the university programme I followed has taken me through a lot of the fields that comprise Game Development. I worked with Engines such as GameMaker, Unity, Unreal Engine and Godot while learning how to implement programming, animation, design and audio throughout all of them.<br>
 However, my area of expertise lies primarily with Game and Level Design, as well as programming, with some 3D animation and asset creation skills here and there.
-I have the most experience with engines such as Unreal and Unity, but i feel more comfortable with Unity's C# programming, whereas Unreal is where my Level Design skills shine the most.
-Basic 3D and 2D asset creation skills using Blender and Aseprite as well as texturing through Adobe's Substance Painter and Substance Designer have helped me implement most of my ideas into my own personal projects.
+I have the most experience with engines such as Unreal and Unity, but i feel more comfortable with Unity's C# programming, whereas Unreal is where my Level Design skills shine the most.<br>
+Basic 3D and 2D asset creation skills using Blender and Aseprite as well as texturing through Adobe's Substance Painter and Substance Designer have helped me implement most of my ideas into my own personal projects.<br>
 For easy access and organization of my work i used source control apps such as Git, Github with Github Desktop and Sourcetree, and I feel very comfortable in using all of them.
 
 
