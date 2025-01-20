@@ -24,7 +24,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 <p align="left"></p>
   <div align="left">
     <a href="https://discordapp.com/users/168074357334081538">
-      <img src ="https://raw.githubusercontent.com/DenverCoder1/simple-icons-fork/tree/develop/icons/discord.svg" height="40" width="12" alt="discord logo">
+      <img src ="https://raw.githubusercontent.com/CodringherAndFenn/simple-icons-forked/refs/heads/develop/icons/discord.svg" height="40" width="12" alt="discord logo">
     </a>
   </div>
 </p>
