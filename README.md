@@ -6,7 +6,7 @@
     <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
 </p>
 
-## 👀 A bit about me 👀
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=A+bit+about+me)](https://git.io/typing-svg) 👀 A bit about me 👀
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
@@ -19,7 +19,7 @@ I am driven by a very strong passion for building and playing video-games, nurtu
 The vast experience I gathered throughout my University years, ranging from Game Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also currently working on small, personal project both for PC and Mobile.
 
 ## 🐱‍🏍 Young entrepreneur 🐱‍🏍
-I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 6 month project together. 
+I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 4 month project together. 
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
 <p align="left"></p>
   <div align="left">
