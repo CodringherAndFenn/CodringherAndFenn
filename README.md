@@ -134,9 +134,11 @@ For easy access and organization of my work i used source control apps such as G
 <p align="center"></p>
 
 
-## Ala bala portocala 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F+Team+Projects+%F0%9F%A4%B9%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
-Lorem Ipsumm dksdsdsddd
+<div align="center">  
+  Mead & Monsters
+</div>
 
 ###
 <div align="center">
