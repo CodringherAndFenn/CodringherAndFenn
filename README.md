@@ -144,6 +144,7 @@ For easy access and organization of my work i used source control apps such as G
   <img src="https://fontmeme.com/permalink/250120/bc7c5a4da55f55d67609926d0acc597b.png" alt="Mead and Monsters" />
 </div>
 
+&nbsp;
 
 
 Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
@@ -160,7 +161,13 @@ Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cev
   <img src="https://fontmeme.com/permalink/250120/f0b41f7fb52f2642085e5514cb7b03ee.png" alt="From Home to CHOAM" />
 </div>
 
+&nbsp;
 
+<div align="center">  
+  <img src="https://fontmeme.com/permalink/250120/0fee6f05683c3fcb0d1f585029dc3e06.png" alt="Wizard Hat with a Cat" />
+</div>
+
+&nbsp;
 
 
 
