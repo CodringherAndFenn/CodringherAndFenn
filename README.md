@@ -6,7 +6,9 @@
     <img src="https://fontmeme.com/permalink/250117/b5a4a0703143a5a53a42a0fe18d1c778.png" alt="Mihai Ivanov" /></a>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=A+bit+about+me)](https://git.io/typing-svg) 👀 A bit about me 👀
+
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=A+bit+about+me)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
