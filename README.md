@@ -205,6 +205,8 @@ Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cev
 
 &nbsp;
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Personal+Projects+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
+
 
 
 
