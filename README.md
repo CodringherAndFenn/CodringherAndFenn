@@ -18,13 +18,14 @@
 
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
 I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
-The vast experience I gathered throughout my University years, ranging from Game Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also constantly working on small, personal projects both for PC and Mobile.
+The vast experience I gathered throughout my University years, ranging from Game and Level Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also constantly working on small, personal projects both for PC and Mobile.
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Young+Entrepreneur+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D)](https://git.io/typing-svg)
 
 I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 4 month project together. 
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
+&nbsp;
 Our team was comprised of a developer, designer, and 2 artists but realistically, we all helped with almost everything we had to do.
 My role within the company was mainly a Developer, Game, Level and Narrative Designer. Due to the small nature of the company, i also have experience in other areas such as 2D Animation, 3D Animation and SpeedTree.
 
