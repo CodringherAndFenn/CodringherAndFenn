@@ -25,7 +25,7 @@ The vast experience I gathered throughout my University years, ranging from Game
 I was also the CEO and founder of KIBO Entertainment, an indie startup comprised of 4 people who worked on a 4 month project together. 
 This amazing entrepreneurship experience gave me a unique view into the inner workings of a development studio, into how important good communication and cohesiveness is in any studio, and into just how much goes in coordinating so many people towards one singular goal.
 <p align="center"></p>
-  <div align="left">
+  <div align="center">
     <a href="https://discordapp.com/users/168074357334081538">
       <img src ="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/discord-icon.svg" height="40" alt="discord logo">
       <img width="12" />
