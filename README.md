@@ -1,14 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<style>
-
-body {
-        text-align: justify;
-        hyphens: auto;
-        -webkit-hyphens: auto;
-        -moz-hyphens: auto;
-        word-wrap: break-word;
-    }
 
 <p align="center">
   <a href="https://github.com/CodringherAndFenn">
@@ -164,7 +155,6 @@ Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cev
 
 </p>
 
-</style>
 
 
           
