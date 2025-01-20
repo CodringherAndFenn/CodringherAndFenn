@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
 </div>
-
  ###
  
 I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
