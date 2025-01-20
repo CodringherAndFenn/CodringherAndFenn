@@ -100,6 +100,7 @@ Si aici vreau sa scriu ceva
 
 <div align="left">
   <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="airport" />
+  si daca scriu aici cum arata
   <img src="https://i.postimg.cc/KjLpKmVV/Year1-Airport-groningenstation.gif" alt="airport" align="right" />
 </div>  
 
