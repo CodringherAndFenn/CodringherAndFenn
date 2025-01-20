@@ -6,11 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/CodringherAndFenn">
-    <img src="https://fontmeme.com/permalink/250120/5287c7e42f2cd769b5ec311ee5b5e239.png" alt="Mihai Ivanov" /></a>
+    <img src="https://fontmeme.com/permalink/250120/e97e05f241fa39fd75928510b6f6ac43.png" alt="Mihai Ivanov" /></a>
 </p>
-
-
-&nbsp;
 
 
 <div align="center">
