@@ -10,7 +10,7 @@
 
 
 #
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+bit+about+me%F0%9F%91%80%F0%9F%91%80)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute wizard" />
