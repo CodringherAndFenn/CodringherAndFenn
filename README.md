@@ -88,7 +88,7 @@ This amazing entrepreneurship experience gave me a unique view into the inner wo
 <p align="center"></p>
 
 
-### Ala bala portocala 
+## Ala bala portocala 
 
 ###
 <div align="center">
