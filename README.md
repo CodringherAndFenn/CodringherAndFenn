@@ -144,7 +144,7 @@ For easy access and organization of my work i used source control apps such as G
 &nbsp;
 
 
-A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company.
+A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. auleo fetelor e si inger si dracusor
 
 ###
 <div align="center">
