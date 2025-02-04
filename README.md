@@ -207,7 +207,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 "Wizard Hat with a Cat" was a prototyping adventure done my be and 2 other close friends for about a month period. The game went through about 3 different approaches until we landed on what you see below. First, it was a co-op puzzle game, then became a 1v1 race for time and lastly it became something of a 1v1 spell fighter. This cool little project was made just for fun, to practice our rapid prototyping skills.
 
 <div align="center">  
-  <img src="https://i.postimg.cc/ZYQyNvR5/Wizard-Hat.gif" alt="Wizard Hat fight" />
+  <img src="https://i.postimg.cc/W3xDZxn1/Wizard-Cats.gif" alt="Wizard Hat fight" />
 </div>
 
 ##
@@ -228,8 +228,8 @@ This game was made in just 3 days, using my moderate programming knowledge and a
 This showcase argues that AI will not take over anyone's job, but will greatly aid developers, among others, in their day to day taks.
 
 <div align="center">  
-  <img src="https://i.postimg.cc/Y9DK0Hth/El-Z-Roguelike.gif" alt="joculet unity elZ" />
-  <img src="https://i.postimg.cc/g0GfKJJx/CoDEV.gif" alt="codev" />
+  <img src="https://i.postimg.cc/vmqxY4x9/Roguelike-shooter.gif" alt="joculet unity elZ" />
+  <img src="https://i.postimg.cc/DZSJ871N/AI-Chat.gif" alt="codev" />
 </div>
 
 ##
@@ -239,7 +239,10 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
 </div>
 <br>
 
-
+<div align="center">  
+  <img src="https://i.postimg.cc/VkFbhGYK/Kitty-Companion.gif" alt="kitty" />
+  <img src="https://i.postimg.cc/26tkJvbc/DDCampaign.gif" alt="d&d" />
+</div>
 
 VR Police game for the NL Police - Under NDA
 
