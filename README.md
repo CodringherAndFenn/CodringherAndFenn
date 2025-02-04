@@ -228,8 +228,8 @@ This game was made in just 3 days, using my moderate programming knowledge and a
 This showcase argues that AI will not take over anyone's job, but will greatly aid developers, among others, in their day to day taks.
 
 <div align="center">  
-  <img src="https://i.postimg.cc/vmqxY4x9/Roguelike-shooter.gif" alt="joculet unity elZ" />
-  <img src="https://i.postimg.cc/DZSJ871N/AI-Chat.gif" alt="codev" />
+  <img src="https://i.postimg.cc/YS9jstDS/Roguelike-shooter.gif" alt="joculet unity elZ" />
+  <img src="https://i.postimg.cc/8zsS8sGx/AI-Chat.gif" alt="codev" />
 </div>
 
 ##
@@ -239,7 +239,7 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
 </div>
 <br>
 
-<div align="center">  
+<div align="left">  
   <img src="https://i.postimg.cc/VkFbhGYK/Kitty-Companion.gif" alt="kitty" />
   <img src="https://i.postimg.cc/26tkJvbc/DDCampaign.gif" alt="d&d" />
 </div>
