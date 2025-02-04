@@ -175,6 +175,7 @@ One of the more interesting tools i created is a tool which combines automatic l
 </div>
 
 &nbsp;
+
 A project done by two people, me and a university colleague, in our first Year of University using the GameMaker Engine. Our task was to experiment with the new Engine and get accustomed to what it means to build a game.
 Why am I so proud of this little 2 month project? Well, it is the only time that the project requests were so loose, that we could try and completely FINISH a game in 2 months. That was our main goal, and we succeeded!!!
 
@@ -194,7 +195,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
   <img src="https://i.postimg.cc/Przcrd0c/2025-01-2015-36-02-ezgif-com-video-to-gif-converter-1.gif" alt="home end" align="right" />
 </div>  
 
-
+<br>
 &nbsp;
 
 <div align="center">  
