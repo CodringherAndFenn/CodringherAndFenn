@@ -178,8 +178,7 @@ One of the more interesting tools i created is a tool which combines automatic l
 
 A project done by two people, me and a university colleague, in our first Year of University using the GameMaker Engine. Our task was to experiment with the new Engine and get accustomed to what it means to build a game.
 Why am I so proud of this little 2 month project? Well, it is the only time that the project requests were so loose, that we could try and completely FINISH a game in 2 months. That was our main goal, and we succeeded!!!
-
-###
+<br>
 <div align="center">
   <img src="https://i.postimg.cc/MKdxT0Q1/2025-01-2015-14-23-ezgif-com-optimize.gif" alt="groningen airport just landed" />
   <img src="https://i.postimg.cc/ncMS4qW4/2025-01-2015-21-45-ezgif-com-video-to-gif-converter.gif" alt="fight phantoms in airport" />
