@@ -207,7 +207,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 "Wizard Hat with a Cat" was a prototyping adventure done my be and 2 other close friends for about a month period. The game went through about 3 different approaches until we landed on what you see below. First, it was a co-op puzzle game, then became a 1v1 race for time and lastly it became something of a 1v1 spell fighter. This cool little project was made just for fun, to practice our rapid prototyping skills.
 
 <div align="center">  
-  <img src="https://i.postimg.cc/ZYQyNvR5/Wizard-Hat.gif" alt="Wizard Hat fight" />
+  <img src="https://i.postimg.cc/ZYQyNvR5/Wizart.gif" alt="Wizard Hat fight" />
 </div>
 
 &nbsp;
