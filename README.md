@@ -141,9 +141,6 @@ For easy access and organization of my work i used source control apps such as G
   <img src="https://fontmeme.com/permalink/250120/bc7c5a4da55f55d67609926d0acc597b.png" alt="Mead and Monsters" />
 </div>
 
-&nbsp;
-
-
 
 <p align="center">
 A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. <br>
