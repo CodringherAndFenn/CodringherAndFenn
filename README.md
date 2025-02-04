@@ -139,6 +139,7 @@ For easy access and organization of my work i used source control apps such as G
 
 <div align="center">  
   <img src="https://fontmeme.com/permalink/250120/bc7c5a4da55f55d67609926d0acc597b.png" alt="Mead and Monsters" />
+  <img src="https://i.postimg.cc/SxxtR6t5/Fighting-Small-Enemy-village.gif" alt="village fight" />
 </div>
 
 &nbsp;
@@ -160,7 +161,7 @@ A vertical slice for a possible RPG dwarven product made by me and my team, in o
   <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
   <img src="https://i.postimg.cc/TPy7qRxJ/Boss-Fight.gif" alt=" boss fight" />
   <img src="https://i.postimg.cc/FsZBhWG3/diagetic-system.gif" alt="health system" />
-  <img src="https://i.postimg.cc/SxxtR6t5/Fighting-Small-Enemy-village.gif" alt="village fight" />
+  
   
   <img src="https://i.postimg.cc/Lsryxr6K/Walking-In-Village.gif" alt="walking in village" />
 </div>
