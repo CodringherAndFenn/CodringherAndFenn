@@ -164,8 +164,11 @@ One of the more interesting tools i created is a tool which combines automatic l
 <div align="center">
   <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
 </div>
-##
+
+###
+
 &nbsp;
+
 
 <div align="center">  
   <img src="https://fontmeme.com/permalink/250120/f0b41f7fb52f2642085e5514cb7b03ee.png" alt="From Home to CHOAM" />
