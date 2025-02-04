@@ -171,7 +171,7 @@ One of the more interesting tools i created is a tool which combines automatic l
 
 
 <div align="center">  
-  <img src="https://fontmeme.com/permalink/250204/22d4f1cfd306e6909006cc2036668e2f.png" alt="From Home to CHOAM" />
+  <img src="https://fontmeme.com/permalink/250204/a44deffcb26063a183c96c756379f2ad.png" alt="From Home to CHOAM" />
 </div>
 
 &nbsp;
