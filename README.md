@@ -187,7 +187,7 @@ Why am I so proud of this little 2 month project? Well, it is the only time that
 
 "From Home to CHOAM" is a story about a university student like any other, landing in the Netherlands for the first time in order to follow his studies.
 Many new things come with this, it is a drastic change in one's life, and with changes like that usually comes _*Anxiety*_. <br>
-Fight through your anxiety, represented by *spooky ghosts*, travel around the country and reach your room in Groningen, take a nap and everything will be ok.
+Fight through your anxiety, represented by *spooky ghosts*, travel around the country and reach your room in Groningen, take a nap and everything will be ok!
 
 
 <div align="center">
