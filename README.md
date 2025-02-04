@@ -216,8 +216,9 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Other+Projects+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <div align="left">  
-  <img src="https://fontmeme.com/permalink/250204/bde84dce6a4adbaffac6f39d34fb6e54.png" alt="Co dev si joculet unity elZ" />
+  <img src="https://fontmeme.com/permalink/250204/070b57e7b1434d6a93699cc00f10fcfc.png" alt="Co dev si joculet unity elZ" />
 </div>
+<br>
 
 In one of the entreprenurship electives I followed, I had to create a mock-up of a company product, analyze competitors, market entry and so on.<br>
 I used this opportunity to dabble with a bit of LLM API's and made a little bot that can scan your files and give you suggestions for your code. Using this little mock-up app, I made a little roguelike shooter game in Unity.
