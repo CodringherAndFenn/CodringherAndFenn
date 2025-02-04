@@ -253,7 +253,7 @@ Amongst my many sideprojects, I like to dabble in things external to outright ga
 </div>
 <br>
 
-VR Police game for the NL Police - Under NDA
+I worked together with the Innovation House, an office that works with the Police forces here in NL for a special VR project. While the details of the project are under NDA, I can tell you I worked with implementing the GPT and ElevenLabs API into Unreal Engine.
 
 ##
 
@@ -262,7 +262,7 @@ VR Police game for the NL Police - Under NDA
 </div>
 <br>
 
-Ongoing Mobile Game Project -- still in the works
+Many of my projects are either too incomplete or too short to showcase here, but through my daily life as a Dev, I work on projects and side-projects almost every single day.
 
 
 
