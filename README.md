@@ -175,7 +175,8 @@ One of the more interesting tools i created is a tool which combines automatic l
 </div>
 
 &nbsp;
-
+A project done by two people, me and a university colleague, in our first Year of University using the GameMaker Engine. Our task was to experiment with the new Engine and get accustomed to what it means to build a game.
+Why am I so proud of this little 2 month project? Well, it is the only time that the project requests were so loose, that we could try and completely FINISH a game in 2 months. That was our main goal, and we succeeded!!!
 
 ###
 <div align="center">
@@ -183,9 +184,10 @@ One of the more interesting tools i created is a tool which combines automatic l
   <img src="https://i.postimg.cc/ncMS4qW4/2025-01-2015-21-45-ezgif-com-video-to-gif-converter.gif" alt="fight phantoms in airport" />
 </div>
 
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
+"From Home to CHOAM" is a story about a university student like any other, landing in the Netherlands for the first time in order to follow his studies.
+Many new things come with this, it is a drastic change in one's life, and with changes like that usually comes _*Anxiety*_. <br>
+Fight through your anxiety, represented by *spooky ghosts*, travel around the country and reach your room in Groningen, take a nap and everything will be ok.
+
 
 <div align="left">
   <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train" />
