@@ -145,14 +145,17 @@ For easy access and organization of my work i used source control apps such as G
 
 
 
-
+<p align="center">
 A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. <br>
+</p>
 "Mead and Monsters" is a narrative-driven RPG set in a post-cataclysmic world where players, as members of a small but very gifted dwarven clan, navigate through magical ruins together with their companion. Uncover mysteries of your past and bond with your mount in this narrative driven, casual RPG experience.
 
 <div align="center">
   <img src="https://i.postimg.cc/zBKx60VL/Riding-Mount-Spawn.gif" alt="riding mount" />
 </div>
-###
+
+## 
+
 <div align="center">
   <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
   <img src="https://i.postimg.cc/TPy7qRxJ/Boss-Fight.gif" alt=" boss fight" />
