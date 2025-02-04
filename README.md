@@ -239,14 +239,28 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
 </div>
 <br>
 
-Amongst my many sideprojects, I like to dabble in things external to outright game development. Some of these examples are I like to make cursor companions and custom D&D campaigns for me and my friends.
+Amongst my many sideprojects, I like to dabble in things external to outright game development. Some of these examples are that I like to make cursor companions and custom D&D campaigns for me and my friends.
 
 <div align="center">  
   <img src="https://i.postimg.cc/SRVw3bvy/Kitty-Companion.gif" alt="kitty" />
   <img src="https://i.postimg.cc/3JxMpWkW/DDCampaign.gif" alt="d&d" />
 </div>
 
+##
+
+<div align="left">  
+  <img src="https://fontmeme.com/permalink/250204/81d402492e9ce074fa637578d1fe4172.png" alt="Police" />
+</div>
+<br>
+
 VR Police game for the NL Police - Under NDA
+
+##
+
+<div align="left">  
+  <img src="https://fontmeme.com/permalink/250204/7b91c15cc71202fa565cf178f5dbcb97.png" alt="other" />
+</div>
+<br>
 
 Ongoing Mobile Game Project -- still in the works
 
