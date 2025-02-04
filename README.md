@@ -189,18 +189,11 @@ Many new things come with this, it is a drastic change in one's life, and with c
 Fight through your anxiety, represented by *spooky ghosts*, travel around the country and reach your room in Groningen, take a nap and everything will be ok.
 
 
-<div align="left">
-  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train" />
+<div align="center">
+  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train" align="left" />
   <img src="https://i.postimg.cc/Przcrd0c/2025-01-2015-36-02-ezgif-com-video-to-gif-converter-1.gif" alt="home end" align="right" />
 </div>  
 
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
 
 &nbsp;
 
