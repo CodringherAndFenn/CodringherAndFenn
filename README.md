@@ -199,7 +199,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 <br>
 
 <div align="center">  
-  <img src="https://fontmeme.com/permalink/250120/0fee6f05683c3fcb0d1f585029dc3e06.png" alt="Wizard Hat with a Cat" />
+  <img src="https://fontmeme.com/permalink/250204/e723309f7024d49f3e2c673335c6992d.png" alt="Wizard Hat with a Cat" />
 </div>
 
 &nbsp;
