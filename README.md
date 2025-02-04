@@ -209,7 +209,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 <div align="center">  
   <img src="https://i.postimg.cc/ZYQyNvR5/Wizard-Hat.gif" alt="Wizard Hat fight" />
 </div>
-## [![Wizard-Hat.gif](https://i.postimg.cc/ZYQyNvR5/Wizard-Hat.gif)](https://postimg.cc/kDx434K0)
+
 ##
 
 
