@@ -232,9 +232,14 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
   <img src="https://i.postimg.cc/g0GfKJJx/CoDEV.gif" alt="codev" />
 </div>
 
-Companion desktop app
+##
 
-D&D custom campaign
+<div align="left">  
+  <img src="https://fontmeme.com/permalink/250204/6a78f8b073c0988d1c1357e0172f7c7a.png" alt="Companion and D&D" />
+</div>
+<br>
+
+
 
 VR Police game for the NL Police - Under NDA
 
