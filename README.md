@@ -157,13 +157,14 @@ During our 4 month period, we managed to create a vertical slice of all of the e
 ## 
 
 <div align="center">
-  <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
   <img src="https://i.postimg.cc/TPy7qRxJ/Boss-Fight.gif" alt=" boss fight" />
   <img src="https://i.postimg.cc/FsZBhWG3/diagetic-system.gif" alt="health system" />
-  
   <img src="https://i.postimg.cc/Lsryxr6K/Walking-In-Village.gif" alt="walking in village" />
 </div>
 
+<div align="center">
+  <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
+</div>
 
 &nbsp;
 
