@@ -195,10 +195,9 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
   <img src="https://i.postimg.cc/Przcrd0c/2025-01-2015-36-02-ezgif-com-video-to-gif-converter-1.gif" alt="home end"  />
 </div>  
 
-aloooooo
+##
 
 <br>
-
 
 <div align="center">  
   <img src="https://fontmeme.com/permalink/250120/0fee6f05683c3fcb0d1f585029dc3e06.png" alt="Wizard Hat with a Cat" />
