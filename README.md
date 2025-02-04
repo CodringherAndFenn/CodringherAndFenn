@@ -204,13 +204,11 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 
 &nbsp;
 
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
-Si aici vreau sa scriu cevaSi aici vreau sa scriu cevaSi aici vreau sa scriu ceva
+sss
+
+<div align="center">  
+  <img src="https://i.postimg.cc/ZYQyNvR5/Wizard-Hat.gif" alt="Wizard Hat fight" />
+</div>
 
 &nbsp;
 
