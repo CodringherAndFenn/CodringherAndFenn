@@ -220,8 +220,15 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 </div>
 <br>
 
-si adhjd
+In one of the entreprenurship electives I followed, I had to create a mock-up of a company product, analyze competitors, market entry and so on.<br>
+I used this opportunity to dabble with a bit of LLM API's and made a little bot that can scan your files and give you suggestions for your code. Using this little mock-up app, I made a little roguelike shooter game in Unity.
+This game was made in just 3 days, using my moderate programming knowledge and a lot of help from the AI, i sped up work that would have taken me weeks before, into just a few days. <br>
+This showcase argues that AI will not take over anyone's job, but will greatly aid developers, among others, in their day to day taks.
 
+<div align="center">  
+  <img src="https://i.postimg.cc/Y9DK0Hth/El-Z-Roguelike.gif" alt="joculet unity elZ" />
+  <img src="https://i.postimg.cc/g0GfKJJx/CoDEV.gif" alt="codev" />
+</div>
 
 elective z game
 
