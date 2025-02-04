@@ -239,6 +239,8 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
 </div>
 <br>
 
+Amongst my many sideprojects, I like to dabble in things external to outright game development. Some of these examples are I like to make cursor companions and custom D&D campaigns for me and my friends.
+
 <div align="center">  
   <img src="https://i.postimg.cc/SRVw3bvy/Kitty-Companion.gif" alt="kitty" />
   <img src="https://i.postimg.cc/3JxMpWkW/DDCampaign.gif" alt="d&d" />
