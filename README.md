@@ -240,8 +240,8 @@ This showcase argues that AI will not take over anyone's job, but will greatly a
 <br>
 
 <div align="left">  
-  <img src="https://i.postimg.cc/VkFbhGYK/Kitty-Companion.gif" alt="kitty" />
-  <img src="https://i.postimg.cc/26tkJvbc/DDCampaign.gif" alt="d&d" />
+  <img src="https://i.postimg.cc/SRVw3bvy/Kitty-Companion.gif" alt="kitty" />
+  <img src="https://i.postimg.cc/3JxMpWkW/DDCampaign.gif" alt="d&d" />
 </div>
 
 VR Police game for the NL Police - Under NDA
