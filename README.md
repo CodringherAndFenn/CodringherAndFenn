@@ -215,6 +215,13 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Other+Projects+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93)](https://git.io/typing-svg)
 
+<div align="left">  
+  <img src="https://fontmeme.com/permalink/250204/4bda10ab9e769dbc7e8c1919a727e43f.png" alt="Co dev si joculet unity elZ" />
+</div>
+<br>
+
+si adhjd
+
 
 elective z game
 
