@@ -191,8 +191,8 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train" align="left" />
-  <img src="https://i.postimg.cc/Przcrd0c/2025-01-2015-36-02-ezgif-com-video-to-gif-converter-1.gif" alt="home end" align="right" />
+  <img src="https://i.postimg.cc/Vk2Nf9xD/2025-01-2015-28-09-ezgif-com-video-to-gif-converter.gif" alt="out of train"  />
+  <img src="https://i.postimg.cc/Przcrd0c/2025-01-2015-36-02-ezgif-com-video-to-gif-converter-1.gif" alt="home end"  />
 </div>  
 
 aloooooo
