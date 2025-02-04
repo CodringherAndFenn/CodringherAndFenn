@@ -144,7 +144,10 @@ For easy access and organization of my work i used source control apps such as G
 &nbsp;
 
 
-A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. auleo fetelor e si inger si dracusor
+
+
+A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. 
+"Mead and Monsters" is a narrative-driven RPG set in a post-cataclysmic world where players, as members of a small but very gifted dwarven clan, navigate through magical ruins together with their companion. Uncover mysteries of your past and bond with your mount in this narrative driven, casual RPG experience.
 
 ###
 <div align="center">
