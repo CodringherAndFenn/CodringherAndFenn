@@ -262,7 +262,7 @@ I worked together with the Innovation House, an office that works with the Polic
 </div>
 <br>
 
-Many of my projects are either too incomplete or too short to showcase here, but through my daily life as a Dev, I work on projects and side-projects almost every single day.
+Many of my projects are either too incomplete or too short to showcase here, but through my daily life as a Dev, I work on projects and side-projects almost every single moment.
 
 
 
