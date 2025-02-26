@@ -182,7 +182,7 @@ One of the more interesting tools i created is a tool which combines automatic l
 <br>
 
 A project done by two people, me and a university colleague, in our first Year of University using the GameMaker Engine. Our task was to experiment with the new Engine and get accustomed to what it means to build a game.
-Why am I so proud of this little 2 month project? Well, it is the only time that the project requests were so loose, that we could try and completely FINISH a game in 2 months. That was our main goal, and we succeeded!!!
+I was in charge of basically everything, from art to the basic programming that the project required.
 <br>
 <div align="center">
   <img src="https://i.postimg.cc/MKdxT0Q1/2025-01-2015-14-23-ezgif-com-optimize.gif" alt="groningen airport just landed" />
@@ -210,6 +210,7 @@ Fight through your anxiety, represented by *spooky ghosts*, travel around the co
 &nbsp;
 
 "Wizard Hat with a Cat" was a prototyping adventure done my be and 2 other close friends for about a month period. The game went through about 3 different approaches until we landed on what you see below. First, it was a co-op puzzle game, then became a 1v1 race for time and lastly it became something of a 1v1 spell fighter. This cool little project was made just for fun, to practice our rapid prototyping skills.
+As always, my main responsibilities lie with the game design as well as programming of the character controller.
 
 <div align="center">  
   <img src="https://i.postimg.cc/W3xDZxn1/Wizard-Cats.gif" alt="Wizard Hat fight" />
