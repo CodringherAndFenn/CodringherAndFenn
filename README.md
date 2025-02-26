@@ -18,7 +18,7 @@
   
   I am a 4th year Creative Media and Game Technologies (CMGT) student at the Hanze University of Apllied Sciences.
   I am driven by a very strong passion for building and playing video-games, nurtured from a very young age.
-  The vast experience I gathered throughout my University years, ranging from Game and Level Design, Programming, Project Management and Art, solidifed my belief of wanting to be part of a small to medium-sized game development studio. I am also constantly working on small, personal projects both for PC and Mobile.
+  I am also constantly working on small, personal projects both for PC and Mobile.
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%94+Skills+and+profficiencies+%F0%9F%91%94)](https://git.io/typing-svg)
@@ -148,7 +148,7 @@ My role within the company was mainly a Developer, Game, Level and Narrative Des
 <p align="center">
 A vertical slice for a possible RPG dwarven product made by me and my team, in our 4 man company. <br>
 </p>
-"Mead and Monsters" is a narrative-driven RPG set in a post-cataclysmic world where players, as members of a small but very gifted dwarven clan, navigate through magical ruins together with their companion. Uncover mysteries of your past and bond with your mount in this narrative driven, casual RPG experience.
+"Mead and Monsters" is a narrative-driven RPG set in a post-cataclysmic world where players, as members of a small but very gifted dwarven clan, navigate through magical ruins together with their companion.
 
 <div align="center">
   <img src="https://i.postimg.cc/zBKx60VL/Riding-Mount-Spawn.gif" alt="riding mount" />
@@ -157,14 +157,16 @@ A vertical slice for a possible RPG dwarven product made by me and my team, in o
 
 
 During our 4 month period, we managed to create a vertical slice of all of the elements we wished to showcase to our audience. We had companions implemented, our first combat system, our enemies, level-building and most importantly, our diagetic health system.
+My main *development* contributions consisted of game, level and narrative design, combined with some minor development work.
 <div align="center">
   <img src="https://i.postimg.cc/TPy7qRxJ/Boss-Fight.gif" alt=" boss fight" />
   <img src="https://i.postimg.cc/FsZBhWG3/diagetic-system.gif" alt="health system" />
 </div>
 
-One of the more interesting tools i created is a tool which combines automatic landscaping with performance-friendly stylized grass.
+One of the more interesting tools i created is a tool which combines automatic landscaping with performance-friendly stylized grass, inspired by another developer, Ghislain Girardot.
 
 <div align="center">
+  <img src="https://i.postimg.cc/DwXDZZvQ/image.png" alt="details" />
   <img src="https://i.postimg.cc/P5VVwCgq/Auto-Landscape-Tool.gif" alt="landscape tool" />
 </div>
 
