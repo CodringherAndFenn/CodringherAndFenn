@@ -1,15 +1,6 @@
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-
-<p align="center">
-  <a href="https://github.com/CodringherAndFenn">
-    <img src="https://fontmeme.com/permalink/250120/e97e05f241fa39fd75928510b6f6ac43.png" alt="Mihai Ivanov" /></a>
-</p>
-
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="cute cat" />
-</div>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
 
