@@ -4,15 +4,16 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%80+A+bit+about+me+%F0%9F%91%80)](https://git.io/typing-svg)
 
-  What began as a passion for building and automating things has grown into running my own Linux home server, administering networks, and integrating modern AI/LLM and computer-vision pipelines into real, shipped products.
-  I am happiest in a terminal: automating workflows, monitoring systems, and shipping software end-to-end across Linux and Windows.
+  What began as a passion for building and automating things has grown into running my own Linux home server, administering networks, and moving toward enterprise Linux administration and DevOps, with a growing focus on Red Hat Enterprise Linux.
+  I am happiest in a terminal: administering systems, automating workflows, and monitoring infrastructure across RHEL, Arch, Ubuntu and Windows.
 
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%91%94+Skills+and+profficiencies+%F0%9F%91%94)](https://git.io/typing-svg)
 
 
-My experience spans the full delivery cycle, from administering Linux systems, to scripting automation, to integrating AI into production-grade applications.<br>
-I self-host and administer a **Linux home server** (Ubuntu) handling DNS, DHCP, firewall configuration and network routing, daily drive an Arch Linux derivative and I am very comfortable across the Unix/Linux CLI for system monitoring, service management and troubleshooting.<br>
+My experience spans Linux systems administration, network services and scripting automation, with AI/computer-vision integration on the development side.<br>
+I self-host and administer a Linux home server (Ubuntu, with RHEL in active use for hands-on practice) handling DNS, DHCP, firewall configuration and network routing, daily drive an Arch Linux derivative and I am very comfortable across the Unix/Linux CLI for system monitoring, service management and troubleshooting.<br>
+I'm currently building toward RHCSA, RHCE and CKA certification, working through RHEL administration, systemd, storage, networking and container orchestration concepts.<br>
 On the development side I work primarily in **Python** and **Bash** for automation, tooling and computer-vision/AI work, building on **LLM APIs** (OpenAI/GPT, ElevenLabs), **Google MediaPipe** and **NumPy**.<br>
 I keep all of my work under version control with Git, GitHub and Sourcetree.
 
@@ -25,6 +26,10 @@ I keep all of my work under version control with Git, GitHub and Sourcetree.
 <div align="left">
 <a href="https://www.linux.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+</a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" height="40" alt="redhat logo"  />
   <img width="12" />
 </a>
 <a href="https://archlinux.org/">
@@ -76,9 +81,10 @@ I keep all of my work under version control with Git, GitHub and Sourcetree.
 
 I run and maintain a **self-managed Linux home server** as an ongoing project. It is where most of my DevOps and infrastructure skills are sharpened day to day:
 
-- OS administration across **Arch Linux, Ubuntu and CachyOS**
+- OS administration across **RHEL, Arch Linu and Ubuntu**
 - **DNS, DHCP, firewall configuration** and network routing
 - Uptime/performance **monitoring**, OS updates, service management and hardware troubleshooting
+- Actively preparing for RHCSA, RHCE and CKA certification, applying RHEL administration and container orchestration concepts directly in the home lab
 
 Earlier, during an **Infrastructure & Server Operations internship at Apa-Nova**, I racked and installed physical server hardware in an on-site data center, monitored system status and uptime through infrastructure dashboards, and supported day-to-day maintenance within a critical utility operations environment.
 
@@ -109,7 +115,7 @@ A Python tool that converts images and animated GIFs into ASCII art, released op
 
 A real-time hand and motion tracking application that pairs a standard webcam with **Google MediaPipe**, written in Python and open-sourced on my GitHub. The same computer-vision foundation underpins my current **Digital Transformation internship at Wilhelmina Ziekenhuis**, where I develop, deploy and troubleshoot the application across Windows and Linux workstations in a clinical environment.
 
-➡️ [View the repository](https://github.com/CodringherAndFenn?tab=repositories)
+➡️ [View the repository](https://github.com/CodringherAndFenn/HandTracker)
 
 ##
 
@@ -118,7 +124,7 @@ A real-time hand and motion tracking application that pairs a standard webcam wi
 </div>
 <br>
 
-**CoDev** is an AI-powered code assistant: a bot that scans your project files and suggests improvements to your code using **LLM APIs**. I built it to explore AI-assisted development workflows — the kind of tooling that compresses work which used to take weeks into days. AI won't replace developers; it dramatically accelerates them.
+**CoDev** is an AI-powered code assistant: a bot that scans your project files and suggests improvements to your code using **LLM APIs**. I built it to explore AI-assisted development workflows, the kind of tooling that compresses work which used to take weeks into days. AI won't replace developers; it dramatically accelerates them.
 
 <div align="center">
   <img src="https://i.postimg.cc/8zsS8sGx/AI-Chat.gif" alt="codev ai chat" />
@@ -168,7 +174,7 @@ The experience taught me how much coordination, communication and operational di
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=%F0%9F%8E%AE+Where+it+started+(extra)+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-Before pivoting to infrastructure and AI, my foundation was game development through my CMGT degree — where I picked up programming, tooling, rapid prototyping and shipping discipline. A few highlights, kept here as an extra:
+Before pivoting to infrastructure and AI, my foundation was game development through my CMGT degree, where I picked up programming, tooling, rapid prototyping and shipping discipline. A few highlights, kept here as an extra:
 
 <details>
 <summary><b>🎮 Click to expand my game development work</b></summary>
@@ -178,7 +184,7 @@ Before pivoting to infrastructure and AI, my foundation was game development thr
   <img src="https://fontmeme.com/permalink/250120/bc7c5a4da55f55d67609926d0acc597b.png" alt="Mead and Monsters" />
 </div>
 
-A vertical-slice RPG built with my 4-person company (KIBO). Alongside design work I built **editor tooling and performance-focused systems** — including an automatic landscaping tool with performance-friendly stylized grass, inspired by developer Ghislain Girardot.
+A vertical-slice RPG built with my 4-person company (KIBO). Alongside design work I built **editor tooling and performance-focused systems**, including an automatic landscaping tool with performance-friendly stylized grass.
 
 <div align="center">
   <img src="https://i.postimg.cc/zBKx60VL/Riding-Mount-Spawn.gif" alt="riding mount" />
