@@ -13,7 +13,7 @@
 
   📌&nbsp; <a href="https://github.com/CodringherAndFenn/DigitalSocietyHub_HandLandmarker_Mediapipe"><b>HandRehabilitation</b></a> &nbsp;<kbd>Public</kbd>
 
-  A real-time hand rehabilitation exercise tracker that uses your webcam and Google's MediaPipe to detect hand landmarks, count exercise reps, and      generate session reports for patients and clinicians. Designed with rehab patients in mind — the system is intentionally lenient, encourages  progress, and never penalises incomplete range of motion.
+  A real-time hand rehabilitation exercise tracker that uses your webcam and Google's MediaPipe to detect hand landmarks, count exercise reps, and      generate session reports for patients and clinicians. Designed with rehab patients in mind, the system is intentionally lenient, encourages  progress, and never penalises incomplete range of motion.
 
   🔵 Python &nbsp;·&nbsp; ⭐ <a href="https://github.com/Codringher/DigitalSocietyHub_HandLandmarker_Mediapipe/stargazers">Star</a>
 
