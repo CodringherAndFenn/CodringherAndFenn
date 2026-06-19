@@ -1,3 +1,26 @@
+  <table>
+  <tr>
+  <td width="50%" valign="top">
+
+  📌&nbsp; <a href="https://github.com/CodringherAndFenn/ASCII_ImageGIF_Converter"><b>ASCIIArtConverter</b></a> &nbsp;<kbd>Public</kbd>
+
+   A native desktop app that turns images and animated GIFs into ASCII art with live preview, color, background masking, brush editing, and a pile     of export formats (including PNG sprite sheets for game engines). Built with PyQt6, Pillow, and NumPy.
+
+  🔵 Python &nbsp;·&nbsp; ⭐ <a href="https://github.com/Codringher/ASCII_ImageGIF_Converter/stargazers">Star</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  📌&nbsp; <a href="https://github.com/CodringherAndFenn/DigitalSocietyHub_HandLandmarker_Mediapipe"><b>REPO-TWO</b></a> &nbsp;<kbd>Public</kbd>
+
+  A real-time hand rehabilitation exercise tracker that uses your webcam and Google's MediaPipe to detect hand landmarks, count exercise reps, and      generate session reports for patients and clinicians. Designed with rehab patients in mind — the system is intentionally lenient, encourages  progress, and never penalises incomplete range of motion.
+
+  🔵 Python &nbsp;·&nbsp; ⭐ <a href="https://github.com/Codringher/DigitalSocietyHub_HandLandmarker_Mediapipe/stargazers">Star</a>
+
+  </td>
+  </tr>
+  </table>
+
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
