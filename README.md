@@ -106,7 +106,7 @@ Earlier, during an **Infrastructure & Server Operations internship at Apa-Nova**
 
 A Python tool that converts images and animated GIFs into ASCII art, released open-source on my GitHub. A focused little project in image processing, pixel sampling and clean CLI tooling.
 
-➡️ [View the repository]([https://github.com/CodringherAndFenn?tab=repositories](https://github.com/CodringherAndFenn/ASCII_ImageGIF_Converter))
+➡️ [View the repository]([https://github.com/CodringherAndFenn?tab=repositories](https://github.com/CodringherAndFenn/ASCII_ImageGIF_Converter)
 
 ##
 
