@@ -37,7 +37,7 @@
 My experience spans Linux systems administration, network services and scripting automation, with AI/computer-vision integration on the development side.<br>
 I self-host and administer a Linux home server (Ubuntu, with RHEL in active use for hands-on practice) handling DNS, DHCP, firewall configuration and network routing, daily drive an Arch Linux derivative and I am very comfortable across the Unix/Linux CLI for system monitoring, service management and troubleshooting.<br>
 I'm currently building toward RHCSA, RHCE and CKA certification, working through RHEL administration, systemd, storage, networking and container orchestration concepts.<br>
-On the development side I work primarily in **Python** and **Bash** for automation, tooling and computer-vision/AI work, building on **LLM APIs** (OpenAI/GPT, ElevenLabs), **Google MediaPipe** and **NumPy**.<br>
+On the development side I work primarily in **Python** and **Bash** for automation, tooling and computer-vision/AI work, building on **LLM APIs** (Claude, Ollama, ElevenLabs), **Google MediaPipe** and **NumPy**.<br>
 I keep all of my work under version control with Git, GitHub and Sourcetree.
 
 
